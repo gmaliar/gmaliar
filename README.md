@@ -1,3 +1,5 @@
-Principal Architect @ [Investing.com](https://www.investing.com/) and Google Developer Expert for Google Cloud.
+Principal Architect @ [Investing.com](https://www.investing.com/) and [Google Developer Expert for Google Cloud](https://developers.google.com/community/experts/directory/profile/profile-guy-maliar).
 <br/>
-You can read [my blog](https://medium.com/@gmaliar) or [follow @gmaliar_ on Twitter](https://twitter.com/gmaliar_).
+* [Blog](https://medium.com/@gmaliar)
+* [Twitter](https://twitter.com/gmaliar_)
+* [Linkedin](https://il.linkedin.com/in/guy-maliar)
